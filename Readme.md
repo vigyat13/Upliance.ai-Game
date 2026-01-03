@@ -230,7 +230,7 @@ The clean separation means each layer can be tested, modified, or replaced indep
 ---
 
 **Total Development Time**: ~3 hours  
-**Lines of Code**: ~300 (excluding comments)  
+**Lines of Code**: ~397 (excluding comments)  
 **Test Coverage**: Manual testing of all edge cases (see test scenarios below)
 
 ## Test Scenarios Verified
